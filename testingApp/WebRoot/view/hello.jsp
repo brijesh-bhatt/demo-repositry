@@ -5,9 +5,7 @@
 <body>
 	<center>
 		<h2>Spring Application</h2>
-		<h4>
-			<a href="hello.html">Click Here</a>
-		</h4>
+		<h4>${message}</h4>
 	</center>
 </body>
 </html>
