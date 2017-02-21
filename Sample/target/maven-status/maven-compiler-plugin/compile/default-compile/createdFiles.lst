@@ -1,0 +1,6 @@
+com/avenues/sample/services/TestSampleService.class
+com/avenues/sample/services/SampleService.class
+com/avenues/sample/entities/BaseEntity.class
+com/avenues/sample/entities/Child.class
+com/avenues/sample/entities/Parent.class
+com/avenues/sample/services/SampleDAOImpl.class
